@@ -7,7 +7,7 @@ Welcome to the repository for **Breast Cancer Prediction System** and **Book Rec
 ## 📂 Repository Structure
 
 - **`Breast_Cancer_Prediction_System.ipynb`**: Contains the code for the Breast Cancer Prediction System.
-- **`EDA.ipynb`**: Contains the code for the Book Recommendation System.
+- **`EDA_BookRecommendation.ipynb`**: Contains the code for the Book Recommendation System.
 
 ---
 
