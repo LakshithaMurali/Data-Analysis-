@@ -6,8 +6,8 @@ Welcome to the repository for **Breast Cancer Prediction System** and **Book Rec
 
 ## 📂 Repository Structure
 
-- **`breast_cancer_prediction.ipynb`**: Contains the code for the Breast Cancer Prediction System.
-- **`book_recommendation_system.ipynb`**: Contains the code for the Book Recommendation System.
+- **`Breast_Cancer_Prediction_System.ipynb`**: Contains the code for the Breast Cancer Prediction System.
+- **`EDA.ipynb`**: Contains the code for the Book Recommendation System.
 
 ---
 
@@ -26,7 +26,7 @@ The **Breast Cancer Prediction System** leverages the **Wisconsin Breast Cancer 
 
 ### Outputs
 - Prediction of tumor classification: benign or malignant.
-- Model performance metrics such as accuracy, precision, and recall.
+- Model performance metrics such as accuracy and precision.
 
 ---
 
